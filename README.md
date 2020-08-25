@@ -1,5 +1,7 @@
 # Manim docs
 
+Looking for the [Manim Community Edition docs](https://github.com/PhilipEnchin/manimce-docs)?
+
 ## Viewing the docs
 
 [View them here](https://philipenchin.github.io/manim-docs/), or see the [build branch](https://github.com/PhilipEnchin/manim-docs/tree/build) of this repo to grab a copy for local viewing.
